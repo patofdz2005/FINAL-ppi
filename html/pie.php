@@ -3,19 +3,19 @@
     <!-- COLUMNA DERECHA -->
     <aside class="col-12 col-lg-2">
       <div class="caja">
-        <h6 class="caja-titulo">Pez del día</h6>
+        <h6 class="caja-titulo">Pez del mes</h6>
         <div class="p-2 text-center">
           <div class="foto-falsa">🐡</div>
-          <small>Pez globo<br>(no lo toques)</small>
+          <small>Pez globo<br>(tócalo)</small>
         </div>
       </div>
 
       <div class="caja mt-3">
         <h6 class="caja-titulo">Noticias</h6>
         <ul class="small mb-0 py-2">
-          <li>19/11/2026: ¡Abrimos la tienda!</li>
-          <li>Próximamente: acuario</li>
-          <li>Próximamente: más sombreros</li>
+          <li>19/11/2026: ¡10,000 Clientes! ¡Muchas gracias a todos!</li>
+          <li>23/10/2026: ¡Conseguimos más peces payaso! Comprenlos ahora</li>
+          <li>11/09/2026: Recordando la gran tragedia</li>
         </ul>
       </div>
 

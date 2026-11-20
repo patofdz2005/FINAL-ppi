@@ -18,31 +18,31 @@
     <div class="caja text-center p-2 h-100">
       <div class="foto-falsa">PLACEHOLDER</div>
       <a href="catalogo.php"><strong>Pez payaso $120</strong></a>
-      <p class="small mb-0">Naranja y rayado.<br>(Responde al nombre Nemo)</p>
+      <p class="small mb-0">Como el de buscando Nemo jaja :)</p>
     </div>
   </div>
 
   <div class="col-6 col-md-4">
     <div class="caja text-center p-2 h-100">
       <div class="foto-falsa">PLACEHOLDER</div>
-      <a href="catalogo.php"><strong>Caña básica $350</strong></a>
-      <p class="small mb-0">Para pescar peces.<br>(Y a veces botas)</p>
+      <a href="catalogo.php"><strong>Pez Angel $350</strong></a>
+      <p class="small mb-0">Amén</p>
     </div>
   </div>
 
   <div class="col-6 col-md-4">
     <div class="caja text-center p-2 h-100">
       <div class="foto-falsa">PLACEHOLDER</div>
-      <a href="catalogo.php"><strong>Lombrices $40</strong></a>
-      <p class="small mb-0">Un frasco de carnada.<br>(Siguen vivas)</p>
+      <a href="catalogo.php"><strong>Pez Lubina $300</strong></a>
+      <p class="small mb-0">Es bajista</p>
     </div>
   </div>
 
   <div class="col-6 col-md-4">
     <div class="caja text-center p-2 h-100">
       <div class="foto-falsa">PLACEHOLDER</div>
-      <a href="catalogo.php"><strong>Sombrero vaquero $80</strong></a>
-      <p class="small mb-0">Para tu pez.<br>(Se ve muy bien)</p>
+      <a href="catalogo.php"><strong>Cowboy hat $80</strong></a>
+      <p class="small mb-0">Para tu pez mas guapo</p>
     </div>
   </div>
 
@@ -50,7 +50,7 @@
     <div class="caja text-center p-2 h-100">
       <div class="foto-falsa">PLACEHOLDER</div>
       <a href="catalogo.php"><strong>Trucha arcoíris $95</strong></a>
-      <p class="small mb-0">Brillante y veloz.<br>(Origen: río local)</p>
+      <p class="small mb-0">Es gay</p>
     </div>
   </div>
 
@@ -58,7 +58,7 @@
     <div class="caja text-center p-2 h-100">
       <div class="foto-falsa">PLACEHOLDER</div>
       <a href="catalogo.php"><strong>Pez misterioso $999</strong></a>
-      <p class="small mb-0">No sabemos qué es.<br>(1 en existencia)</p>
+      <p class="small mb-0">No tenemos ni idea de que es esto<br>(1 en existencia)</p>
     </div>
   </div>
 
