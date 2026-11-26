@@ -1,3 +1,8 @@
+<?php
+if (session_status() == PHP_SESSION_NONE) {
+    session_start();
+}
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -37,13 +42,19 @@
         </div>
       </div>
 
-      <div class="caja mt-3">
+     <div class="caja mt-3">
         <h6 class="caja-titulo">Cuenta</h6>
         <div class="list-group list-group-flush">
-          <a class="list-group-item list-group-item-action" href="login.php">👤 Log In</a>
-          <a class="list-group-item list-group-item-action" href="registro.php">🔑 Registro</a>
+          <?php if (isset($_SESSION["id_usuario"])) { ?>
+            <span class="list-group-item">👤 Hola, <?= htmlspecialchars($_SESSION["nombre"]) ?></span>
+            <a class="list-group-item list-group-item-action" href="logout.php">🔑 Cerrar sesión</a>
+          <?php } else { ?>
+            <a class="list-group-item list-group-item-action" href="login.php">👤 Iniciar Sesión</a>
+            <a class="list-group-item list-group-item-action" href="registro.php">🔑 Registro</a>
+          <?php } ?>
         </div>
       </div>
+
     </aside>
 
     <!-- COLUMNA CENTRAL -->

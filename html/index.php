@@ -4,7 +4,7 @@
 <div class="caja mb-3">
   <h6 class="caja-titulo">Producto destacado</h6>
   <div class="p-3 text-center">
-    <div class="foto"> <img class="hatfav" src="Ranger_brown_hat.png" alt="rangerhat"> </div>
+    <div class="foto"> <img class="hatfav" src="img/Ranger_brown_hat.png" alt="rangerhat"> </div>
     <a href="catalogo.php"><strong>Ranger Hat</strong></a>
     <p class="mb-0 small">Para peces que no se quedan quietos.<br>(Talla única)</p>
   </div>
@@ -58,7 +58,7 @@
     <div class="caja text-center p-2 h-100">
       <div class="foto-falsa">PLACEHOLDER</div>
       <a href="catalogo.php"><strong>Pez misterioso $999</strong></a>
-      <p class="small mb-0">No tenemos ni idea de que es esto<br>(1 en existencia)</p>
+      <p class="small mb-0">No tenemos ni idea de que es est<br>(1 en existencia)</p>
     </div>
   </div>
 
