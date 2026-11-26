@@ -1,4 +1,4 @@
-i<?php
+<?php
 $mensaje = "";
 $exito = false;
 
